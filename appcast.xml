@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CCWatcher</title>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Sun, 19 Apr 2026 11:15:29 +0000</pubDate>
+            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.6.0.dmg" length="1434184" type="application/octet-stream" sparkle:edSignature="CDZkFbWOpdfVYOUkX3/8y50G616dtMxTx+Dt1XSUbWTfbUHXnRJlmZb1YwGvSvTvngQHrRl7AQVy6HY4FvqqAQ=="/>
+        </item>
+    </channel>
+</rss>
