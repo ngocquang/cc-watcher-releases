@@ -9,7 +9,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.6.0.dmg" length="1434167" type="application/octet-stream" sparkle:edSignature="x+jS5m1JTcXevDqRre/pSzHSz/27+JqLuNFCiiv0EsNeGK8Afi+GUz7i8lcSk1vCgbdZDthFvKGvDwALwrx4AA=="/>
+            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.6.0.dmg" length="1434169" type="application/octet-stream" sparkle:edSignature="Q5aNFfzN2IzxeWoX+ZJtTWrtVOux1NTpVYBsestPFuEUbHJsBVknV2a306zVsVARqzuO7j7b87KCEAtw4mmPDA=="/>
         </item>
     </channel>
 </rss>
