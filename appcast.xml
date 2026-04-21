@@ -3,6 +3,23 @@
     <channel>
         <title>CCWatcher</title>
         <item>
+            <title>0.9.5</title>
+            <pubDate>Tue, 21 Apr 2026 10:15:14 +0000</pubDate>
+            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 0.9.5</h2>
+
+<p>Update message for UI first launch</p>
+]]></description>
+            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.5.dmg" length="3016686" type="application/octet-stream" sparkle:edSignature="xiIo9tZj3FJY6hSLjBqwsDS2NHv8POQu5Q7w10jhXvZTt0Ride/LtsP3euAt+TbMZfHP0b8sfwotik+Fsk8uDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher33-32.delta" sparkle:deltaFrom="32" length="14022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z/uhBvZjJpGyCF4/tlSvF9/b50Qe3jwqlUYtSzaNP64BLlM8DnoCPIxFq9kGVTNYAMyU0aTfoJl5joZuK8L7BA=="/>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher33-29.delta" sparkle:deltaFrom="29" length="89354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BvyByAdnxFoDfG2Y/uMPRb/4UZ2x3wvVoKjR8i2poz4EMUizFfvUfiWbLlaZbEnKInW5H45+MXpyhAf/qUu/BA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.4</title>
             <pubDate>Tue, 21 Apr 2026 10:02:34 +0000</pubDate>
             <link>https://ngocquang.github.io/cc-watcher-releases/</link>
@@ -33,19 +50,6 @@
             <sparkle:deltas>
                 <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher31-29.delta" sparkle:deltaFrom="29" length="13106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9013iWKLpgV4EAeoK3e/JMSNi0Nkq8TrswVeHwsTS6AOUUbKcYgif2NxjJuKGuhTN5NcKMN/N8jk138eJHfKCg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.3</title>
-            <pubDate>Tue, 21 Apr 2026 08:20:13 +0000</pubDate>
-            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Version 0.9.3</h2>
-
-<p>First time to release.</p>
-]]></description>
-            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.3.dmg" length="3016634" type="application/octet-stream" sparkle:edSignature="4XR4eRc8ytH07jFBMkGM5Y4dqwZpl0/EloUOdrCkZXTyLEe+FIO1FDI9n8XdhmjwAAWSzM1nJR845EvBHjQZBw=="/>
         </item>
     </channel>
 </rss>
