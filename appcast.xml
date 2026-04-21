@@ -4,6 +4,19 @@
         <title>CCWatcher</title>
         <item>
             <title>0.9.3</title>
+            <pubDate>Tue, 21 Apr 2026 08:20:13 +0000</pubDate>
+            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 0.9.3</h2>
+
+<p>First time to release.</p>
+]]></description>
+            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.3.dmg" length="3016634" type="application/octet-stream" sparkle:edSignature="4XR4eRc8ytH07jFBMkGM5Y4dqwZpl0/EloUOdrCkZXTyLEe+FIO1FDI9n8XdhmjwAAWSzM1nJR845EvBHjQZBw=="/>
+        </item>
+        <item>
+            <title>0.9.3</title>
             <pubDate>Tue, 21 Apr 2026 07:21:03 +0000</pubDate>
             <link>https://ngocquang.github.io/cc-watcher-releases/</link>
             <sparkle:version>28</sparkle:version>
@@ -27,19 +40,6 @@
 <p>First time to release.</p>
 ]]></description>
             <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.3.dmg" length="2980568" type="application/octet-stream" sparkle:edSignature="Of2qOKQBBJMeS8u/HcQ6W5GC/jxl1FDAdR2ehtiBeVmS6a0mbvMKGBwL7PZ2afx9BHpP8omUsW2QQeDGlQ4OCg=="/>
-        </item>
-        <item>
-            <title>0.9.3</title>
-            <pubDate>Tue, 21 Apr 2026 03:35:20 +0000</pubDate>
-            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Version 0.9.3</h2>
-
-<p>First time to release.</p>
-]]></description>
-            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.3.dmg" length="2954479" type="application/octet-stream" sparkle:edSignature="QGCQ77F8HkPBv+ePRE2ihodqjoe9oiRpI6kW9vXmjMgbX7PV7ChfkBW62oyEGI4ffTKe3m/3AJ0Hz3xxZgScCg=="/>
         </item>
     </channel>
 </rss>
