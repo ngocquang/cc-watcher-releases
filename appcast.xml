@@ -4,6 +4,38 @@
         <title>CCWatcher</title>
         <item>
             <title>0.9.8</title>
+            <pubDate>Fri, 24 Apr 2026 03:02:20 +0000</pubDate>
+            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 0.9.8</h2>
+
+<h3>New</h3>
+<ul>
+  <li>
+    Fix bugs
+  </li>
+  <li>
+    When session stop, the float window will bloom animation to show the session has stopped, and then disappear after animation.
+  </li>
+  <li>
+    <strong>Multi language support</strong>
+    CCWatcher now supports multiple languages, including English, Spanish, Vietnamese, Chinese, Japanese, Korean. Users can switch between languages in the settings menu.
+  </li>
+</ul>
+]]></description>
+            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.8.dmg" length="3246279" type="application/octet-stream" sparkle:edSignature="AAYqh9EJ+i6EGz6zOTtFJdTAana0IX6CHR4hXNAuVkhSeIbBMNj2nC2+i0xwOwoJozV1Djn6BIfSxg3DDIMPDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher45-39.delta" sparkle:deltaFrom="39" length="471030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zC1NLIBiIexuyMQxZtHmakPonCgwvo0dD4FR0B39iybZaZs6XO7hxSceSu1cuMvVw7hDKeM/Cg8d2E4Ytd/1Aw=="/>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher45-37.delta" sparkle:deltaFrom="37" length="521358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FYZOk94cixbqhIabcfPQ4w/TYo52hWKFpx2GwZRNdLgDR/foYi4vDaEXdDYU9TK4GmghnQQqE6LFsKUaRpDCDQ=="/>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher45-33.delta" sparkle:deltaFrom="33" length="592570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cPLmfm1Wk7t8J7deP1wiTbkK/WsA99hAzCulTr7ABOee8miXaHchIafT7xJddl5RtfEWDqvcWNBJG9Iip+mNBg=="/>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher45-32.delta" sparkle:deltaFrom="32" length="593266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IZrGp0JraDWw2mnKHXzXY2PcIdtb2O0CjBmm5tOH+W6nu8dgHG2B1qz9W5DXe0qMUdEyhOVgitAk5GKfvXdaDA=="/>
+                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher45-29.delta" sparkle:deltaFrom="29" length="587938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8jdVRIRXlohOj3XkzEvdXzlFJZFEsG4Qn0YH3qQUC/L8IS+8VaTbRM8KBxF5ulEv8DDSgl5Y3KghM3zkyUudAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.9.8</title>
             <pubDate>Fri, 24 Apr 2026 02:37:28 +0000</pubDate>
             <link>https://ngocquang.github.io/cc-watcher-releases/</link>
             <sparkle:version>44</sparkle:version>
@@ -60,33 +92,6 @@
                 <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher39-33.delta" sparkle:deltaFrom="33" length="418846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="913t5uSMFcH6/EH9PC6AyVjEdjFL7JJIWoOcI+IAoEha+xRokiKtKcnTet8YMXf7WXm79fdbd2wnROqvMgQ/Aw=="/>
                 <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher39-32.delta" sparkle:deltaFrom="32" length="420014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UBo3X4UXnTfyc2PuefFYtgALGNZ4Mh3wwIDRBNiZgh7yItoHGBiX3VSdXlgjSVGIuCivkxbIf0AkjtKnXK8nAw=="/>
                 <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher39-29.delta" sparkle:deltaFrom="29" length="417002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wqh6tOUuhi29nBBwFYHCN7HvlTAAkxUUR8WKRBCWPDexAoQeIwQ87rpFHJKAdeeeSxay2KKySM/IAeDhyE0XDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.6</title>
-            <pubDate>Wed, 22 Apr 2026 02:46:57 +0000</pubDate>
-            <link>https://ngocquang.github.io/cc-watcher-releases/</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Version 0.9.6</h2>
-
-<h3>New</h3>
-<ul>
-  <li>
-    Fix bugs
-  </li>
-  <li>
-    <strong>Add new Quota report to expand bar</strong>
-    Which shows the current usage of the quota and the time when the quota will be reset.
-  </li>
-</ul>
-]]></description>
-            <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher-0.9.6.dmg" length="3082188" type="application/octet-stream" sparkle:edSignature="RSyD2/jyx1QT1nFrrPzB8gQKOU55Uz+mshgeHx+vJvGqHY/j9IHPLkCmP6MhTdAdzlOp3D+dTYj2D+0h0NBzCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher37-33.delta" sparkle:deltaFrom="33" length="348434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GdIwZG8u+z3Sfr8l6QZfXCD3ki8+EA/aHeZDht5Y9avsHIUJpv5qPzC+9NTl/MJHZ9s/kYP4c0afmLKjBsgACQ=="/>
-                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher37-32.delta" sparkle:deltaFrom="32" length="349582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3ByT0W5SAy+OT1OXKP37VfQtJjqFHZRPEhyI3A1OLg0gVvY7RPNiPIdsZoL5ah9tC+8VgKLP+t4T1kLm2PeeAQ=="/>
-                <enclosure url="https://ngocquang.github.io/cc-watcher-releases/releases/CCWatcher37-29.delta" sparkle:deltaFrom="29" length="344586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m+rhvjMgr/voWB9eYwWvZ/MM+JZhf2KrlS2Ia9I24r/f8DEJes/xzWRZhf3TICWgLgfRaUrLiZ5ba/Na+TKEBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
