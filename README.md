@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-14%2B-blue?style=flat-square&logo=apple" alt="macOS 14+"/>
   <img src="https://img.shields.io/badge/Architecture-Universal-green?style=flat-square" alt="Universal"/>
-  <img src="https://img.shields.io/badge/Version-0.9.8-purple?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-0.9.9-purple?style=flat-square" alt="Version"/>
 </p>
 
 <h1 align="center">CC Watcher</h1>
